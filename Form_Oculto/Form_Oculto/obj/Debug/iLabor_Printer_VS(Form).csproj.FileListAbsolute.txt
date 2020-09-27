@@ -1,0 +1,10 @@
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\bin\Debug\iLabor_Printer_VS(Form).exe.config
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\obj\Debug\iLabor_Printer_VS(Form).csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\obj\Debug\iLabor_Printer_VS_Form_.Form1.resources
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\obj\Debug\iLabor_Printer_VS_Form_.Properties.Resources.resources
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\obj\Debug\iLabor_Printer_VS(Form).csproj.GenerateResource.Cache
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\bin\Debug\iLabor_Printer_VS(Form).exe
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\bin\Debug\iLabor_Printer_VS(Form).pdb
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\obj\Debug\iLabor_Printer_VS(Form).exe
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\obj\Debug\iLabor_Printer_VS(Form).pdb
+C:\Users\Omnia\Desktop\Projeto Serena\iLabor_Printer_VS(Form)\iLabor_Printer_VS(Form)\bin\Debug\Logo_iLabor.ico
